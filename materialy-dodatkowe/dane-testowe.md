@@ -30,7 +30,7 @@ Dane testowe \(ISTQB\) - To dane, które istnieją \(przykładowo w bazie danych
 * Generowanie danych dla baz danych
   * [https://sourceforge.net/projects/spawner/](https://sourceforge.net/projects/spawner/)
 * Generowanie numerów kart kredytowych
-  * [http://www.getcreditcardnumbers.com/](http://www.getcreditcardnumbers.com/)
+  * [http://www.keycardgen.com/](http://www.keycardgen.com/)
 * PESEL, NIP, REGON, PWZ, nr. telefonu kom. imion, nazwisk, nazw firm, nazw ulic, miast, kodów pocztowych, szerokości i długości geograficznej, e-mail, IPv4 IPv6, nazw użytkowników i userAgent przeglądarek
   * [http://generuj.co.pl/](http://generuj.co.pl/)
 
